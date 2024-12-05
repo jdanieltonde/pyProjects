@@ -4,3 +4,5 @@ def afficher_information_personne(nom, age):
 
 
 afficher_information_personne("Dani",23)
+
+
